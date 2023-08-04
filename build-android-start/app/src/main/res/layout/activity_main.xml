@@ -58,5 +58,6 @@
         android:layout_height="match_parent"
         android:layout_above="@+id/linearLayout"
         android:background="@android:color/white"
+        tools:listitem="@layout/message"
         android:paddingHorizontal="16dp" />
 </RelativeLayout>
